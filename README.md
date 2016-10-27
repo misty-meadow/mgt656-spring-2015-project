@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/misty-meadow/mgt656-spring-2015-project.png?label=ready&title=Ready)](https://waffle.io/misty-meadow/mgt656-spring-2015-project)
 [![Stories in Ready](https://badge.waffle.io/autumn-frog/mgt656-spring-2015-project.png?label=ready&title=Ready)](https://waffle.io/autumn-frog/mgt656-spring-2015-project)
 # MGT 645 Project
 
